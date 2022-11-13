@@ -1,0 +1,16 @@
+#* java -ea ataxx.Main
+# Give Blue Advantage and Blue should win
+manual blue
+a7-b7
+a1-b1
+b7-d7
+b1-c1
+d7-b6
+c1-d1
+g1-f1
+d1-e1
+seed 12345
+auto red
+auto blue
+#*move/win+
+quit
